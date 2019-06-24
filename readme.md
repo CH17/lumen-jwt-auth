@@ -4,13 +4,13 @@
 JSON Web Token Implementation with Laravel Lumen and MySQL for API.
 
 
-## RUN
+#### RUN
 
 ```bash
 php -S localhost:8000 -t public
 ```
 
-## MIGRATION
+#### MIGRATION and SEED
 
 ```bash
 php artisan migrate

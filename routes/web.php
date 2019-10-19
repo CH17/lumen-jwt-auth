@@ -2,6 +2,8 @@
 
 
 $router->get('/', function () use ($router) {
+
+    //Home Page Testing
     return $router->app->version();
 });
 
